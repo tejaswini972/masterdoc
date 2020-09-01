@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "AI-100-Design-Implement-Azure-AISol",
+    "Language": "English",
+    "BaseURL": "https://github.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/madan/Lab3-Basic_Filter_Bot/02-Basic_Filter_Bot.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/madan/Lab4-Log_Chat/02-Logging_Chat.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/master/Lab8-Detect_Language/02-Detect_Language.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/GhumanNavneet/AI-100-Design-Implement-Azure-AISol/master/Lab9-Test_Bots_DirectLine/02-Test_Bots_DirectLine.md",
+        "Order": 4
+      }
+    ]
+  }
+]
