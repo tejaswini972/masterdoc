@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "DP100-Designing and Implementing a Data Science Solution on Azure-Module5",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/DP100/tree/master/labdocs",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP100/master/labdocs/Lab05A.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP100/master/labdocs/Lab05B.md",
+        "Order": 2
+      }
+    ]
+  }
+]
