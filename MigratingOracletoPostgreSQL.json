@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Migrating Oracle to Azure SQL",
+    "Name": "Migrating Oracle to  PostgreSQL",
     "Language": "English",
     "BaseURL": "https://github.com/microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL",
     "Files": [
